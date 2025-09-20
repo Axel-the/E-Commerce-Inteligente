@@ -54,7 +54,7 @@ Este andamiaje proporciona una base sólida construida con:
 
 ```bash
 # Instalar dependencias
-npm Instalar
+npm install
 
 # Iniciar el servidor de desarrollo
 npm run dev
