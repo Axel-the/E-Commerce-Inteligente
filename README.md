@@ -1,7 +1,3 @@
-# 🚀 Bienvenido a Z.ai Code Scaffold
-
-Un moderno andamiaje de aplicaciones web listo para producción, impulsado por tecnologías de vanguardia, diseñado para acelerar tu desarrollo con la asistencia de codificación basada en IA de [Z.ai](https://chat.z.ai).
-
 ## ✨ Pila de Tecnología
 
 Este andamiaje proporciona una base sólida construida con:
@@ -71,18 +67,6 @@ npm start
 ```
 
 Abre [http://localhost:3000](http://localhost:3000) para ver tu aplicación ejecutándose.
-
-## 🤖 Desarrollado por Z.ai
-
-Este andamio está optimizado para su uso con [Z.ai](https://chat.z.ai), tu asistente de IA para:
-
-- **💻 Generación de código** - Genera componentes, páginas y funciones al instante
-- **🎨 Desarrollo de UI** - Crea interfaces atractivas con asistencia de IA
-- **🔧 Corrección de errores** - Identifica y resuelve problemas con sugerencias inteligentes
-- **📝 Documentación** - Genera documentación completa automáticamente
-- **🚀 Optimización** - Mejoras de rendimiento y mejores prácticas
-
-¿Listo para crear algo increíble? ¡Comienza a chatear con Z.ai en [chat.z.ai](https://chat.z.ai) y descubre el futuro del desarrollo basado en IA!
 
 ## 📁 Estructura del proyecto
 
